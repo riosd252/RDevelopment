@@ -1,0 +1,9 @@
+body {
+ background-color: turquoise;
+ border: 3px solid red;
+ border-radius: 20%;
+}
+
+p , h1 {
+ color: white;
+}
